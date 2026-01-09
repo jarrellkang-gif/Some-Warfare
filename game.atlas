@@ -11,26 +11,23 @@ NationIcons/Adelle Corp
   orig: 200, 200
   offset: 0, 0
   index: -1
-
-NationIcons/Adelle Corp
+NationIcons/The New Movement
   rotate: false
-  xy: 420, 4
+  xy: 212, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-
-NationIcons/Adelle Corp
+UnitIcons/Settler
   rotate: false
-  xy: 420, 4
+  xy: 628, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-
-NationIcons/Adelle Corp
+UnitIcons/Infantry
   rotate: false
-  xy: 420, 4
+  xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
