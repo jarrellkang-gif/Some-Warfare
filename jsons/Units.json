@@ -1,4 +1,7 @@
 [
+
+	//always available
+	
     {
         "name": "Settler",
         "unitType": "Civilian",
