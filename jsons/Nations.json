@@ -14,7 +14,6 @@
 		"outerColor": [128,0,128],
 		"innerColor": [255,255,255],
 		"uniqueName": "Word of Nod",
-		"uniques": ["+30% Strength when fighting City-State units and cities", "[+1] Movement <for [Infantry] units>"],
 		"cities": ["Settlement"]
 	},
 
@@ -33,7 +32,6 @@
 		"outerColor": [255,255,255],
 		"innerColor": [128,0,128],
 		"uniqueName": "Purification",
-		"uniques": ["Damage is ignored when determining unit Strength <for [non-air] units>"],
 		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
 "Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
 	}
